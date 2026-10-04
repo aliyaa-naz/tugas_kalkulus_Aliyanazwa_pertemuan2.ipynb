@@ -1,0 +1,1 @@
+# tugas_kalkulus_Aliyanazwa_pertemuan2.ipynb
